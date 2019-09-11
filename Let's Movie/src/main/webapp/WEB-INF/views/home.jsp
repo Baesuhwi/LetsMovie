@@ -11,5 +11,6 @@
 	${list.password }
 	${list.zipcode }
 </c:forEach>
+test-배수휘
 </body>
 </html>
